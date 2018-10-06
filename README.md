@@ -1,1 +1,1 @@
-All the java project will store in this part
+All  java projects will store in this part
