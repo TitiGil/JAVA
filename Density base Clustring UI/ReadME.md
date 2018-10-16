@@ -4,4 +4,6 @@
 
 /// so you have to add this library into your project
 
+///Downloading link : http://www.philippe-fournier-viger.com/spmf/index.php?link=download.php
+
 ///under the GPL v3 license. 
