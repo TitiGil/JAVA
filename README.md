@@ -1,2 +1,2 @@
 # JAVA
-All project of java type will store here
+All projects of java type will store here
