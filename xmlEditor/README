@@ -2,5 +2,5 @@ Read and write xml file with java
 Using java built in XML library 
 Usnig JDOM Library 
 Using built in class is a little complicated
-It's better to use SAX controller 
+It's better to use JDOM controller 
 but at first shuold ADD JDOM.JAR FILE AS ALIBRARY TO your Project
