@@ -1,1 +1,1 @@
-A chatroom implemented in <bold>Java</bold>(JSP-hibernate) and <bold>Bootstrap 4</bold>
+A chatroom implemented in <em>Java</em>(JSP-hibernate) and <em>Bootstrap 4</em>
